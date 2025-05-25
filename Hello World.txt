@@ -1,0 +1,2 @@
+Git Topics
+different merge strategies merge and squash 
